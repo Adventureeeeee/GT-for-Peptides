@@ -1,4 +1,4 @@
-Graph-Transformer-Framework-for-the-Discovery-of-Self-Assembling-Cyclic-Peptides
+**Graph-Transformer-Framework-for-the-Discovery-of-Self-Assembling-Cyclic-Peptides**
 
 **Requirements:**  
 dgl==0.9.1  
